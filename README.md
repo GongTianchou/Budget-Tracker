@@ -1,7 +1,5 @@
 # Budget-Tracker
 
-# Book-Search-Engine
-
 <!-- <div align="center">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"/>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="NodeJS Badge"/>
