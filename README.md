@@ -22,7 +22,7 @@ SO THAT my account balance is accurate when I am traveling
 ```
 ## Installation and Usage
 1. npm install
-2. npm run develop
+2. npm start
 
 ## deployed application
 
